@@ -1,0 +1,5 @@
+0.17s    2084 https://www.drudgereport.com
+0.28s   11526 https://www.google.com
+0.35s    8766 https://golang.org
+0.65s  520444 https://www.yahoo.com
+0.65s elapsed
